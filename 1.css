@@ -1,0 +1,31 @@
+body{
+whit:760;
+margin: 0 autu;
+fant-family: arial,sans-serif;
+font-size:13;
+}
+
+#header{
+	background-color: #222;
+	padding: 10px 20px;
+}
+
+#content{
+	background-color: #444;
+	width: 423px;
+	float: left;
+	padding: 1em;
+}
+
+# AM-THUC {
+background: #333
+width:200PX;
+float: right;
+padding: 1EM;
+}
+
+FOOTTER{
+	clear: both;
+	background-color: 444;
+	padding:  1em;
+}
